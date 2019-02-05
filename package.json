@@ -1,0 +1,19 @@
+{
+  "name": "riftpactforge",
+  "version": "0.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/guildcrypt/riftpactforge.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/guildcrypt/riftpactforge/issues"
+  },
+  "homepage": "https://github.com/guildcrypt/riftpactforge#readme",
+  "description": ""
+}
