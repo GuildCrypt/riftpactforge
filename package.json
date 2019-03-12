@@ -3,7 +3,7 @@
   "version": "0.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "mocha test/ulb --bail --exit"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,20 @@
     "url": "https://github.com/guildcrypt/riftpactforge/issues"
   },
   "homepage": "https://github.com/guildcrypt/riftpactforge#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "openzeppelin-solidity": "^2.0.1",
+    "riftpact": "^3.0.3",
+    "solc": "^0.4.25"
+  },
+  "devDependencies": {
+    "chai": "^4.2.0",
+    "chai-amorph": "^1.0.2",
+    "chai-as-promised": "^7.1.1",
+    "chai-web3-bindings": "^0.1.2",
+    "ganache-cli": "^6.4.1",
+    "mocha": "^6.0.2",
+    "solspecdown": "^2.2.0",
+    "ultralightbeam": "^5.1.10"
+  }
 }
