@@ -17,8 +17,8 @@
   "homepage": "https://github.com/guildcrypt/riftpactforge#readme",
   "description": "",
   "dependencies": {
-    "openzeppelin-solidity": "^2.0.1",
-    "riftpact": "^4.0.0",
+    "openzeppelin-solidity": "~2.0.1",
+    "riftpact": "~4.0.0",
     "solc": "^0.4.25"
   },
   "devDependencies": {
