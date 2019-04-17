@@ -1,6 +1,6 @@
 {
   "name": "riftpactforge",
-  "version": "3.0.0",
+  "version": "3.0.1",
   "main": "index.js",
   "scripts": {
     "test": "mocha test/ulb --bail --exit"
