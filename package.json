@@ -18,7 +18,7 @@
   "description": "",
   "dependencies": {
     "openzeppelin-solidity": "~2.0.1",
-    "riftpact": "~4.0.0",
+    "riftpact": "^5.0.1",
     "solc": "^0.4.25"
   },
   "devDependencies": {
